@@ -37,7 +37,7 @@ Beyond academia, Aziz enjoys driving, experimenting with new recipes in the kitc
 - *2014.09 - 2019.06*, Bachelor in Civil Engineering, Imam Abdulrahman Bin Faisal University.
 
 # 💻 Work Experience
-- 2020.03 – Present, Teaching Assistant, Imam Abdulrahman Bin Faisal University, Ad Dammam, Saudi Arabia
+- 2020.03 – 2023.01, Teaching Assistant, Imam Abdulrahman Bin Faisal University, Ad Dammam, Saudi Arabia
 - 2019.11 – 2020.03, Traffic and Transportation Engineer, General Secretariat of the Ministerial Committee of Traffic Safety, Riyadh, Saudi Arabia
 - 2018.06 – 2018.08, Traffic and Transportation Engineer Summer Training Program, Saudi Aramco, Saudi Arabia
 
