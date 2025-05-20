@@ -32,7 +32,7 @@ Beyond academia, Aziz enjoys driving, experimenting with new recipes in the kitc
 
 
 # 📖 Educations
-- *2025.01 - Present*, PhD in Civil Engineering, University of South Florida
+- *2025.01 - Present*, PhD student in Civil Engineering (transportation concentration ), University of South Florida
 - *2023.09 - 2025.01*, Master in Civil Engineering, University of South Florida.
 - *2014.09 - 2019.06*, Bachelor in Civil Engineering, Imam Abdulrahman Bin Faisal University.
 
