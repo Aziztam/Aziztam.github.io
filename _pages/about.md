@@ -22,7 +22,7 @@ Abdualaziz Alhuraish (Aziz) is a first-year Ph.D. student at the University of S
 Beyond academia, Aziz enjoys driving, experimenting with new recipes in the kitchen, and nurturing a variety of plants in his garden. His interdisciplinary mindset and enthusiasm for everyday experiences help shape a practical and human-centered perspective on mobility research.
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉🎉 I got my Master degree from Uniersity of South Florida and I'll begin as a PhD in Hao Zhou's Lab. 
+- *2025.01*: &nbsp;🎉🎉 I got my Master degree from University of South Florida and I'll begin as a PhD in Hao Zhou's Lab. 
 - *2020.04*: &nbsp;🎉🎉 My first paper "Chicken Feather fiber modified hot mix asphalt concrete: Rutting performance, durability, mechanical and volumetric properties" is published. 
 
 # 📝 Publications 
