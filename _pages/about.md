@@ -28,7 +28,10 @@ Beyond academia, Aziz enjoys driving, experimenting with new recipes in the kitc
 # 📝 Publications 
 
 - [OpenLKA: An Open Dataset of Lane Keeping Assist from Recent Car Models under Real-world Driving Conditions](https://arxiv.org/abs/2505.09092), Y Wang, A Alhuraish, S Yuan, H Zhou, **arXiv preprint 2025**
+- [Empirical Performance Evaluation of Lane Keeping Assist on Modern Production Vehicles](https://arxiv.org/abs/2505.11534), Y Wang, A Alhuraish, S Wang, H Zhou, **arXiv preprint 2025**
+- [OpenLKA: an open dataset of lane keeping assist from market autonomous vehicles](https://arxiv.org/abs/2501.03287), Y Wang, A Alhuraish, S Yuan, S Wang, H Zhou, **arXiv preprint 2025**
 - [Chicken Feather fiber modified hot mix asphalt concrete: Rutting performance, durability, mechanical and volumetric properties](https://doi.org/10.1016/j.conbuildmat.2020.117849), MA Dalhat, SA Osman, AAA Alhuraish, FK Almarshad, SA Qarwan, **Construction and Building Materials 2020**
+
 
 
 # 📖 Educations
